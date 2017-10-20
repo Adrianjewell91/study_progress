@@ -11,7 +11,7 @@ Today, I studied Heap Sort.
 Today I studied 
   1.  Contest versus Scope: 
   
-  Context is object dependent, while scope is function dependent. For example, this.variable is calling a variable in the context of a specific object (which could be the window.
+  Context is object dependent, while scope is function dependent. For example, this.variable is calling a variable in the context of a specific object (which could be the window). Scope determines what variables a function can access (which can vary depending on the kind of function defined in Javascript.)
   
   2. What is the event loop?
   
