@@ -23,4 +23,12 @@ Today I studied
   
   4. Binary Search Trees and QuickSort in O(n) space. 
   
+  10/22: 
+  
+  Today I learned some key words:
+  
+  IDE - Integreated Development Network.
+  JVM - Java Virtual Machine
+  
+  I also learn how to user HackerRank
   
