@@ -3,7 +3,7 @@ What I have studied since Oct 18th, 2017. Most recent additions are first.
 
 ## 10/22: 
 1. Built a React skeleton. Need to memorize webpack config file. 
-2. IDE - Integreated Development Network.
+2. IDE - Integrated Development Env.
 3. JVM - Java Virtual Machine
 
 ## Previously 
