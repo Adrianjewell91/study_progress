@@ -1,5 +1,12 @@
 # study_progress
-What I have studied since Oct 18th, 2017.
+What I have studied since Oct 18th, 2017. Most recent additions are first.
+
+## 10/22: 
+1. Built a React skeleton. Need to memorize webpack config file. 
+2. IDE - Integreated Development Network.
+3. JVM - Java Virtual Machine
+
+## Previously 
 
 10/17:
 Today I studied Linked Lists, and yesterday (10/16) I studied Dynamic Arrays. 
@@ -23,12 +30,4 @@ Today I studied
   
   4. Binary Search Trees and QuickSort in O(n) space. 
   
-  10/22: 
-  
-  Today I learned some key words:
-  
-  IDE - Integreated Development Network.
-  JVM - Java Virtual Machine
-  
-  I also learn how to user HackerRank
-  
+ 
