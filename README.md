@@ -1,6 +1,15 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 10/23
+
+1. Flex-end: Start at the end of the main axis;
+2. Align-self: aligns a single item in a flexbox.
+3. +x: One of three annotations on a variables for the number of coercion to a specific number.
+4. NGINX: A server application, like Apache or Puma.
+5. Immutable Data Structures: A new way of storing information is such a way that the data structure is not rebuilt everytime    in new memory - the goal is the make apps run faster. 
+6. 
+
 ## 10/22: 
 1. Built a React skeleton. Need to memorize webpack config file. 
 2. IDE - Integrated Development Env.
