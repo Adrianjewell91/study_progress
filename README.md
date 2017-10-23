@@ -8,7 +8,7 @@ What I have studied since Oct 18th, 2017. Most recent additions are first.
 3. +x: One of three annotations on a variables for the number of coercion to a specific number.
 4. NGINX: A server application, like Apache or Puma.
 5. Immutable Data Structures: A new way of storing information is such a way that the data structure is not rebuilt everytime    in new memory - the goal is the make apps run faster. 
-6. 
+6. How to optimize delivery of static assets: Bust cachining with query versioning, use a CDN (if everyone is around the world), or minify your files (using a plugin, not manually)
 
 ## 10/22: 
 1. Built a React skeleton. Need to memorize webpack config file. 
