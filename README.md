@@ -2,7 +2,10 @@
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
 ## 10/24
-1. Follow the transloadit tutorial to upload a file to S3 bucket.
+1. Follow the transloadit tutorial to upload a file to S3 bucket. Goals:
+  1. Hide the S3 bucket information.
+  2. Display uploaded waveforms through react.
+  3. Upload through React. 
 
 ## 10/23
 
