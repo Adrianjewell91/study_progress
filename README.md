@@ -11,6 +11,9 @@ What I have studied since Oct 18th, 2017. Most recent additions are first.
 6. How to optimize delivery of static assets: Bust cachining with query versioning, use a CDN (if everyone is around the world), or minify your files (using a plugin, not manually)
 7. In Ruby, nil can be compared with strings.
 
+8. Graphs are interesting.
+9. Please help me put waveforms into Piano Cloud.
+
 ## 10/22: 
 1. Built a React skeleton. Need to memorize webpack config file. 
 2. IDE - Integrated Development Env.
