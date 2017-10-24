@@ -1,6 +1,9 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 10/24
+1. Follow the transloadit tutorial to upload a file to S3 bucket.
+
 ## 10/23
 
 1. Flex-end: Start at the end of the main axis;
