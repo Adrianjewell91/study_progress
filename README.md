@@ -4,6 +4,7 @@ What I have studied since Oct 18th, 2017. Most recent additions are first.
 ## 10/25
 
 1. Dynamic Programming is hard.  
+2. 'this': In javascript, 'this' is the object in which the function is being called. It's a lot like 'self' in ruby, and it can be changed and manipulated with binding. By default, 'this' is the window. 
 
 ## 10/24
 1. Follow the transloadit tutorial to upload a file to S3 bucket. Goals:
