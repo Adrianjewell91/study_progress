@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 10/25
+
+1. Dynamic Programming is hard.  
+
 ## 10/24
 1. Follow the transloadit tutorial to upload a file to S3 bucket. Goals:
   1. Hide the S3 bucket information.
