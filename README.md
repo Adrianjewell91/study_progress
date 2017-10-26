@@ -6,6 +6,7 @@ What I have studied since Oct 18th, 2017. Most recent additions are first.
 1. Dynamic Programming is hard.  
 2. 'this': In javascript, 'this' is the object in which the function is being called. It's a lot like 'self' in ruby, and it can be changed and manipulated with binding. By default, 'this' is the window. 
 3. Goal: Load react on my django frontend with out using create-react-app, just use webpack and install the dependencies using npm.
+4. Lesson: When a Django view loads assets, it needs to be told where to find them in the project's settings.py. This is how a react page can find the bundle.js file when using webpack.
 
 ## 10/24
 1. Follow the transloadit tutorial to upload a file to S3 bucket. Goals:
