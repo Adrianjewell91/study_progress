@@ -1,6 +1,11 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 10/27
+
+1. Nan means that the value of a variable does not fit into the IEEE stand for representing numbers.
+2. Hoisting is a special quality in Javascript. 
+
 ## 10/25
 
 1. Dynamic Programming is hard.  
