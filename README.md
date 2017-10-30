@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 10/28
+
+1. Remember that closures pass values by reference, not by value. The solution is to use Immediately Invoked Function Expressions. 
+
 ## 10/27
 
 1. Nan means that the value of a variable does not fit into the IEEE stand for representing numbers.
