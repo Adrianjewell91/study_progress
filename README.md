@@ -1,5 +1,9 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
+## 10/31
+
+1. Word Chains is a very interesting problem involving a hash and iterative process for traversing a dictionary.
+2. Spiral Print is a way to print the values of a square in a spiral order. Remember to use pop and shift-like methods to make your life easier. There is an elegant way and a non-elegant way to do things!
 
 ## 10/28
 
