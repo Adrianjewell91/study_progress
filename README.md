@@ -2,6 +2,7 @@
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 ## 10/31
 0. Machine Learning lectures begin today. Learn how to find a linear regression.!
+    1. Some notes on Python and matlib: The first is that some of these function take vectors, and we are performing vector addition. For example, if I set x_delta = (x_value- x0); return 1 + x_delta + b, I am actually returning an array of points, despites the fact that it is not explicitly written in array form. This, I believe is vector addition. 
 
 1. Word Chains is a very interesting problem involving a hash and iterative process for traversing a dictionary.
 2. Spiral Print is a way to print the values of a square in a spiral order. Remember to use pop and shift-like methods to make your life easier. There is an elegant way and a non-elegant way to do things!
