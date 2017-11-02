@@ -2,7 +2,7 @@
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
 ## 11/2 
-1. Today begins my investigation into classification of pitches and ways to detect patterns from them. 
+1. Today begins my investigation into classification of pitches and ways to detect patterns from sets of them. The first task to generate random sets of intervals and extract out the intervals that exist.  
 
 ## 11/1 
 
