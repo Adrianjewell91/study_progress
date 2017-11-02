@@ -1,6 +1,9 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/2 
+1. Today begins my investigation into classification of pitches and ways to detect patterns from them. 
+
 ## 11/1 
 
 1. Lilypond and Abjad are tools for producing and modifying musical scores. They seem quite powerful. Abjad can select portions of music and manipulate them. I need to discover if Abjad can evaluate portions of the musical text and say something userful about it. 
