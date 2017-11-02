@@ -1,5 +1,12 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
+
+## 11/1 
+
+1. Lilypond and Abjad are tools for producing and modifying musical scores. They seem quite powerful. Abjad can select portions of music and manipulate them. I need to discover if Abjad can evaluate portions of the musical text and say something userful about it. 
+
+2. Javascript class syntax is very different between es5 and es6. 
+
 ## 10/31
 0. Machine Learning lectures begin today. Learn how to find a linear regression.!
     1. Some notes on Python and matlib: The first is that some of these function take vectors, and we are performing vector addition. For example, if I set x_delta = (x_value- x0); return 1 + x_delta + b, I am actually returning an array of points, despites the fact that it is not explicitly written in array form. This, I believe is vector addition. 
