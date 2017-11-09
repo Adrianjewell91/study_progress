@@ -21,6 +21,8 @@ What I have studied since Oct 18th, 2017. Most recent additions are first.
     9. So where do I start? Algorithsm, fundamentals, and then start a project. 
     10. Keep reading about things that are of interest. And find a meet up or group to keep discussing things.
 
+    11. My studies in SQL have taken me into the realm of nested queries. Apparently you can use the ALL statement to find rows that are related to all of the other rows in some way. Very interesting. 
+    
 ## 11/7
 1. Today, I had a lot of conversations.  I'm feeling conflicted about how to structure my time, and am I don't know what really excites me about software development. I want to start my next project and apply to backend positions using SQL and the backend Framework, but it seems that I have prepared more for the front end roles. Yet, I'm more excited about seeing the backend be put together. So I need to figure out how to structure my time. 
 2. Also, I miss playing the piano and I wish I could just play the piano and share that with the world and have a community of musicians to be around. That would be the best thing ever. How can I do that? I need to learn back end development. 
