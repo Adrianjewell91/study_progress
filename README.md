@@ -1,6 +1,14 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/9
+
+1. I studied the algorithm for finding the longest substring without repeats. Use the hash to keep track of previous inputs, then, when you hit a repeat value. Move the left-point to the character past the first appearance of the number. Keep track of the distance between pointer1 and pointer2. I didn't get it work, and that was frustrating.  
+2. I learned about heaps and quicksort in constant time. Two very important sorts.
+3. I learned about Naive Bayes equation for sorting a dataset. We use Naive Bayes in conjunction with gradient descent to find the phi values such that the proability of the dataset is as high as possible.  Notes that this is not reinforcement learning, this was called supervised learning.
+4. I also learned a bit about SQL, which is getting more and more interesting.
+
+
 ## 11/8
 1. I used a linked-list today to perform arithmetic addition (not the most stimulating algorithm) in javascript.  I messed up the composite logic statement.  I said while (it is true that both are not null), while I meant to say (at least one is is not null), and that a was a very sublte point.
 2. Additionally, I am moving into being interested in backend development. I really like that stuff, and I'm going to now push towards that goal by studying algorithms and data structures everyday, and also will be working on backend work, like Rails and Active Record lite, reviewing SQL, and building a project with more complex API on my project. 
