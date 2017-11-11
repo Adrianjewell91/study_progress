@@ -1,6 +1,11 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/10
+
+1. I worked on a coding challenge from Ankissam. I won't share the solution here :).
+2. I read about machine assembly language and Java. I read a solution in Java, and I think I want to learn Java, because I am interested in the backend of software engineering. Actually, I'm more interested in the machine language interface. Manipulating registers is like manipulating keys on a keyboard. 
+
 ## 11/9
 
 1. I studied the algorithm for finding the longest substring without repeats. Use the hash to keep track of previous inputs, then, when you hit a repeat value. Move the left-point to the character past the first appearance of the number. Keep track of the distance between pointer1 and pointer2. I didn't get it work, and that was frustrating.  
