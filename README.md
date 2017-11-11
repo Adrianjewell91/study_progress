@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/11
+
+1. I have decided to channel my energies into the study of a personal challenge.  There is so much to learn in technology and there is way more to know than there is in a lifetime to learn. This is much like music, there is a enough music/tech for a lifetime, but not enough lifetime for music. And so, given my love for music, I can only continue to pursue the tech through my love of music, and as such, will put forth all of my non-job searching time into the study of a personal project related to music. This is very important to me for the sake of making a contribution to music in the best way that I can, in order for people to learn more about it and appreciate it through the aid of technology, which has already revoluntionized the way humans access information. 
+
 ## 11/10
 
 1. I worked on a coding challenge from Ankissam. I won't share the solution here :).
