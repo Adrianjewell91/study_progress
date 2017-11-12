@@ -14,6 +14,8 @@ What I have studied since Oct 18th, 2017. Most recent additions are first.
 
 3. I have discovered a number of music rendering services - lilypond, midi, VexTab, and some music notation applications in the browser. They all seem to do it a little bit different, and I do not know how to fit them to my purposes. 
 
+4. Lastly, today I worked on SQL. Remember that HAVING is akin to making a WHERE statement, but after you have grouped the results. IT's like being picky about the groups you show, after you've grouped them.
+
 ## 11/10
 
 1. I worked on a coding challenge from Ankissam. I won't share the solution here :).
