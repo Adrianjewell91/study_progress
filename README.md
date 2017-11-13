@@ -1,6 +1,9 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/13
+1. The algorithm for finding the median of two sorted arrays is quite beautiful, if I could figure out how to do it with code.
+
 ## 11/12
 
 1. Sometimes typos can happen in the most unexpected places. Today, I was working on some code, and I kept getting wrong outputs. I realized that I had written my test case incorrectly. So, actually, my code was working just fine, and it was the text input that was wrong. That was so frustrating! They always happen where you least expect it.
