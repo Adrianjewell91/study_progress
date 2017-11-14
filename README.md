@@ -1,6 +1,9 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/14 
+1. Topological Sort algorithm is beautiful.
+
 ## 11/13
 1. The algorithm for finding the median of two sorted arrays is quite beautiful, if I could figure out how to do it with code.
 
