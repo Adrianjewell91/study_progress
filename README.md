@@ -1,6 +1,19 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/15
+1. This morning, I have done some researhcin Neural Networks.  This research came out of yesterday's lectures in neural networks using forward and backward propagation, using logistical regression equations at each node. I probably butchered some of the wording there, but the gestault is that I watched Ned code up a neural network and it's was pretty cool. I want to learn this stuff, and do something interesting with it. One of the most interesting things I've seen in a long time. 
+
+2. There are many kind of neural networks. Today I learned about LSTM neural network, that can handle long-term dependencies. ie. "I grew up in France...I speak fluent FRENCH," where is FRENCH is the accurately predicted word. This could also be applied ot music analysis where we're given I IV V ( . ), where () is replaced by 'I', the tonic chord. This is what always happens.  I miss music so much, and I'm not really sure what to do next with all of this tech out there. 
+
+3. We also learned about Boolean functions, upone which I believe all of computing is based. Didn't know that. 
+
+4. I have also started to explore vanilla Javascript implementations of MVC frameworks, upon learning how many JS libraries are in existence. I need to develop my vanilla JS more. 
+
+5. Lastly, I have discovered the breadth of libraries and websites that help musicians work with music. There is SoundSlice, a musicXML renderer, there is ABJAD and Mingus, for manipulation of notes with Python, and there are a few PDF - MusicXML slices, but it seems that they are not too developed. MusicXML scores are not in abundance it seems, and when I transform Traumerei to MusicXML, most of the notes are there but the rhythm is not perfect.   Kenta suggested putting making the first step toward a better renderer by shifting midi files to more uniform rendering. 
+
+6. 
+
 ## 11/14 
 1. Topological Sort algorithm is beautiful.
 
