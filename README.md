@@ -1,6 +1,9 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/20
+1. Studied the regular expressions, algorithm. It was SO beautiful!
+
 ## 11/16
 1. Today I am going to code up a neural network. Yesterday, I watched Ned do it with the Enron data set, and today, I am going to do one myself, and then I am going use my own dataset using musical chords. My neural network will be able to distinguish chords. I will create my own training and validation set and test it, then I will put the whole thing on github for the world to see and hire me.  
 
