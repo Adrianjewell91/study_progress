@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/24
+1. Cursors are variables that store how many rows a SQL query has return thus far. It makes batched queries possible.
+2. Connect postgresql to Django. YAY! Not that hard actually.
+
 ## 11/20
 1. Studied the regular expressions, algorithm. It was SO beautiful!
 
