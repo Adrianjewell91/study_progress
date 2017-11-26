@@ -1,5 +1,9 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
+## 11/26
+
+1. Today I learned about super cookies, and how the allow a website to view all of your browser history between two visits to your website. This is very powerful! 
+
 
 ## 11/25
 
