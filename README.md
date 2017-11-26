@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/25
+
+1. There is node package called https, it makes a request and then takes a callback. In order to read the body from the response, you have to set the `res.setEncoding('utf8')`, and use `res.on('data', (body) => {//do something});`, and this was something very new to me, because I had never used node. Should tell Alex about it. Check the docs for more info. 
+
 ## 11/24
 1. Cursors are variables that store how many rows a SQL query has return thus far. It makes batched queries possible.
 2. Connect postgresql to Django. YAY! Not that hard actually.
