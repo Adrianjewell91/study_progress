@@ -1,5 +1,9 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
+## 12/1
+1. It's December, and a lot has happened. I did a hackathon to learn solidity and ethereum, and I finally feel good about being a full-stack engineer. 
+2. I also did an algorithm called call back throttler, a very hard question. 
+
 ## 11/26
 
 1. Today I learned about super cookies, and how the allow a website to view all of your browser history between two visits to your website. This is very powerful! 
