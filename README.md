@@ -1,5 +1,12 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
+
+## 12/5
+
+1. I'm a placements TA now. I need to remember to keep committing something every day. 
+
+2. Todays algorithm was rotateSquare(matrix): Rotate a square matrix 90 degrees, but in constant space. It's tough but it can be done!
+
 ## 12/1
 1. It's December, and a lot has happened. I did a hackathon to learn solidity and ethereum, and I finally feel good about being a full-stack engineer. 
 2. I also did an algorithm called call back throttler, a very hard question. 
