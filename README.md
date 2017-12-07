@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 12/6
+
+1. Grading full stack projects.
+
 ## 12/5
 
 1. I'm a placements TA now. I need to remember to keep committing something every day. 
