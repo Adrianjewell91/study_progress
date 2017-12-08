@@ -1,6 +1,9 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 12/7
+1. Man, I've been working hard with helping the students on their javascript projects. I'm learning about D3, more about asynchronicity in Javascript, and some really hard bugs, that I couldn't solve. 
+
 ## 12/6
 
 1. Grading full stack projects.
