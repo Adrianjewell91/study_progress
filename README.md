@@ -8,6 +8,10 @@ What I have studied since Oct 18th, 2017. Most recent additions are first.
 
 3. When you connect to your t2.micro instance, in the cloud, you have to use SSH connection through the terminal. Once you're connected, it's just like being in terminal. And that's it. The next goal is to actually run something on it, and get information back, probably a simple or rack backend. 
 
+4. Put a simple node js serve on it that returns 'hello world'. Used this tutorial after I launched the instance. https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-1-d67367ac5171
+
+5.
+
 
 ## 12/7
 1. Man, I've been working hard with helping the students on their javascript projects. I'm learning about D3, more about asynchronicity in Javascript, and some really hard bugs, that I couldn't solve. 
