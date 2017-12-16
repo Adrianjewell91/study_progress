@@ -1,6 +1,14 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 12/15
+1. I've been spending my time as a placements TA. I've seen a number of projects come to fruition, and that has been satisfying. These include a machine learning Django Application, as well as two full stack Ethereum Blockchain DApps. I've also acquired some familiarity with the MERN stack: Mongo, Express, React, Node. 
+
+2. Today, I launched an AWS t2.micro instance, and connected with it through SSH. I used this tutorial: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html?icmpid=docs_ec2_console, and followed a supplementary tutorial inside of it in order to set up some prerequisite things (a VPC and a Security GROUP).  Before you do this tutorial, be sure to sign up for AWS. 
+
+3. When you connect to your t2.micro instance, in the cloud, you have to use SSH connection through the terminal. Once you're connected, it's just like being in terminal. And that's it. The next goal is to actually run something on it, and get information back, probably a simple or rack backend. 
+
+
 ## 12/7
 1. Man, I've been working hard with helping the students on their javascript projects. I'm learning about D3, more about asynchronicity in Javascript, and some really hard bugs, that I couldn't solve. 
 
