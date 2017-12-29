@@ -1,6 +1,15 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 12/29
+It's been a restful holiday season, and I am recommitting to job search in SF.  I came out here to change my life, and now I am going to finish what I started in the new year - get a job as a software engineer. I've made progress with my understanding of algorithms, and I've gained some topical knowledge in machine learning and put forth some effort into my music analysis application. Next steps in include building out the interface for Theorizer, and turning it into a fully functional SPA. This includes adding authentication so users can keep track of scores, score uploading, and a better neural network. The ultimate goal of this application is a fully functional music theory analysis program for users who want to make theoretical sense of this incredible wealth of piano music. The first step, however, is to simply get the score to sync with the keyboard.
+
+Additionally, I have more work to do on the neural network. It needs to be able to tell chord type, along with chord name. I think this will require a table of output (Chord name, and then chord type, or simply a long list 11 pitches times 8, maj min, aug diminished, dom7, min7, maj/min 7, maj7).  I think it will also require a convolutional neural network. More on that later. 
+
+Lastly, I am interested in the scaling project. 
+
+Fundamentally, however, I need to get a job with a company that I really want to work for. So what am I going to do? 
+
 ## 12/15
 1. I've been spending my time as a placements TA. I've seen a number of projects come to fruition, and that has been satisfying. These include a machine learning Django Application, as well as two full stack Ethereum Blockchain DApps. I've also acquired some familiarity with the MERN stack: Mongo, Express, React, Node. 
 
