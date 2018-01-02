@@ -7,7 +7,7 @@ Some strategies that work when using algorithms.
 1. Using Dynamic programming to store a result "so far" so that previous results don't have to be recalculated against and a gain.
 2. Using a hash to store references to things, instead of having to find them again.
 3. Using Metadata to store information so the the information doesn't have to be found again. 
-
+4. Sorts that do things faster (heap sort, quick sort, trees) 
 The fundamental strategies here are to add a little bit of extra space inorder to save on a whole lot of speed.
 
 ## 12/31 
