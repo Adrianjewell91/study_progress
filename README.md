@@ -1,6 +1,15 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 1/2
+
+Some strategies that work when using algorithms.
+1. Using Dynamic programming to store a result "so far" so that previous results don't have to be recalculated against and a gain.
+2. Using a hash to store references to things, instead of having to find them again.
+3. Using Metadata to store information so the the information doesn't have to be found again. 
+
+The fundamental strategies here are to add a little bit of extra space inorder to save on a whole lot of speed.
+
 ## 12/31 
 Happy new year. I never thought this whole 'new year' thing meant anything, but it actually has given me a lot to consider. Recently I was able to clarify my priorities in life, not that they were any different, but it wasn't until recently that I realized that I had forgotten them amidst the rush of completing App Academy and becoming a software developer. For the duration of my time at App Academy, I allowed myself to shift my priorities from that of health to that of complete focus on the course. When the course ended, I forgot to shift back to my normal priorities, which is fundamentally to be in good health (broadly put).  I realized i wasn't happy because I had forgoten about this. I was nervous about becoming a sedentary and not living an active life, a vibrant life. What was motivating my actions? Well, it wasn't the foundation of what I believe society should be based on, which is people's health. 
 
