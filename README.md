@@ -1,6 +1,13 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 1/3
+There are a lot of open source projects out there and it would be great to find a good one. I've hit up two of them. One of them had an issue I couldn't replicate because the instructions were quite vague. The other one is rather obscure, so I'm going to keep looking for other ones to start looking.
+
+The allure of learning python is strong, but I'm not going to touch python unless it relates a project that excites me, and I'll just use the doc to get syntax info, but I don't really anything about how python works, is compiled, written under the surface, or anything like that. 
+
+Security, is also a definite interest of mine, security is definitely how I'm going to further my dev as a software engineer. 
+
 ## 1/2
 
 Some strategies that work when using algorithms.
