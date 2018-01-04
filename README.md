@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 1/4
+
+Presenting Heaps with the man Cory. 
+
 ## 1/3
 There are a lot of open source projects out there and it would be great to find a good one. I've hit up two of them. One of them had an issue I couldn't replicate because the instructions were quite vague. The other one is rather obscure, so I'm going to keep looking for other ones to start looking.
 
