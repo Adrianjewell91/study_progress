@@ -1,6 +1,9 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 1/5
+Sitting down to crack algorithms really hard for me. There is a technique there, and I have to keep doing it. It's hard.
+
 ## 1/4
 
 Presenting Heaps with the man Cory. 
