@@ -1,6 +1,14 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 1/8
+
+There's more to say about algorithms. This weekend, I tackled mapDecode from Google's database of algorithms, and also worked with my friend on a problem called swapLexOrder. Both questions were quite tricky.  Figuring out swapLexOrder made sense after reading through a solution, but mapDecode still doesn't make sense.  
+
+swapLexOrder askes the solver to find the lexicographically greatest string given pairs of indices that can be swapped. The insight (which is really the best way to describe it) is to understand that pairs of indices that having common indices can be grouped into a larger pairs, and so the the strategy is the build these larger clumps with sets, sort the letters in these clumps, and then put them back into the string at their new positions. The two insights are thus: 1. Understanding clumping of indices (it's kind of a threading concepts. ie. 1/4, and 2/4, means that you can swap 1/2/4 between themselves), and secondly that you can sort them and the 'sum of lexicographically sorted parts' will yield the lexicographically sorted whole. 
+
+MapDecode is a number story. The solution is something like six lines in Ruby, and it is fundamentally a dynamic programming task, but with a catch, given a few things. I haven't figured out how to get to the solution, despite having memorized it. So I won't share any more until I have it down. 
+
 ## 1/5
 Sitting down to crack algorithms really hard for me. There is a technique there, and I have to keep doing it. It's hard.
 
