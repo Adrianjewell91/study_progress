@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 1/12
+
+Working thorugh map decode again was an experience. The solution worked for the test cases, but how someone came up with the solution is still beyond me. It really blows my mind. More practice is required.
+
 ## 1/8
 
 There's more to say about algorithms. This weekend, I tackled mapDecode from Google's database of algorithms, and also worked with my friend on a problem called swapLexOrder. Both questions were quite tricky.  Figuring out swapLexOrder made sense after reading through a solution, but mapDecode still doesn't make sense.  
