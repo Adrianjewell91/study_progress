@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 1/25
+
+The HiR position is taking up a portion of my time. The next things on my mind are to keep working on algorithsms, and stay focused on Ruby and JS as my languages. Improve my skill with them and stay focused. The other thing for my to do is write a webapp that removes my web feed on LinkedIn. This is the next things on my goal of becoming a security expert. That is the next thing on my mind. 
+
 ## 1/12
 
 Working thorugh map decode again was an experience. The solution worked for the test cases, but how someone came up with the solution is still beyond me. It really blows my mind. More practice is required.
