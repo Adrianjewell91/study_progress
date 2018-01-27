@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 1/26
+
+I had a chance to go through some Code from a hack-a-thom competitor. They built a blockchain from scratch in Python. It was cool to read. They implemented a simple proof-of-word hash algorithm. Very interesting. It basically runs a hashing function until the first 5 digits come out 0000, takes about 20 seconds. THey also attempted a merkle root tracker, which didn't really do the job because it they just kept a single hash of all the transations, rather than build a tree data structure (tisk tisk).  Still very intersting to read. 
+
 ## 1/25
 
 The HiR position is taking up a portion of my time. The next things on my mind are to keep working on algorithsms, and stay focused on Ruby and JS as my languages. Improve my skill with them and stay focused. The other thing for my to do is write a webapp that removes my web feed on LinkedIn. This is the next things on my goal of becoming a security expert. That is the next thing on my mind. 
