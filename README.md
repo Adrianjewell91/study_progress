@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 1/29
+
+Remember to reset your indices variable when you're testing a while loop in pry. Also, remember certain special Ruby hash functions. They add a certain convenience to working with them, but also can be complicated. 
+
 ## 1/26
 
 I had a chance to go through some Code from a hack-a-thom competitor. They built a blockchain from scratch in Python. It was cool to read. They implemented a simple proof-of-word hash algorithm. Very interesting. It basically runs a hashing function until the first 5 digits come out 0000, takes about 20 seconds. THey also attempted a merkle root tracker, which didn't really do the job because it they just kept a single hash of all the transations, rather than build a tree data structure (tisk tisk).  Still very intersting to read. 
