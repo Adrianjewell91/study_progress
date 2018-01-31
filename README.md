@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 1/30
+James is a good guy, and linked lists are challenging.
+
+
 ## 1/29
 
 Remember to reset your indices variable when you're testing a while loop in pry. Also, remember certain special Ruby hash functions. They add a certain convenience to working with them, but also can be complicated. 
