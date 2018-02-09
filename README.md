@@ -2,7 +2,7 @@
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
 ## 2/9
-I'm looking for a better way to detect when linked in is on the feed. I can't detect an object, because a new instance is created when I reload the feed window, so I can't do MutationObserver. I also cannot use Proxy because I cannot set window.location to a proxy with location and a handler. So right now, I'm just listening to window.location.href and checking it's value. What else can I do? 
+I'm looking for a better way to detect when linked in is on the feed. I can't detect an object, because a new instance is created when I reload the feed window, so I can't do MutationObserver. I also cannot use Proxy because I cannot set window.location to a proxy with location and a handler. So right now, I'm just listening to window.location.href and checking it's value. Browsers need an #onhashchange for window.location.href 
 
 ## 2/8
 How do proxies work?
