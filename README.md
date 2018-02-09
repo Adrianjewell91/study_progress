@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 2/8
+
+How do proxies work?
+
 ## 1/30
 James is a good guy, and linked lists are challenging.
 
