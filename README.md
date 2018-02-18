@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 2/17
+
+I got a job - now the real work begins. It's time to start thinking long term about this career. 
+
 ## 2/15 
 
 Actively interviewing - Boston, SF, another today- no time to make git commits. Studied a lot of algorithsm. My mind is rushing. Hoping to settling things asap. 
