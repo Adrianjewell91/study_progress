@@ -1,6 +1,9 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 2/19 
+Today I studied in-order traversal in constant space. It's called Morris traversal - so beautiful. I want to get a firm grasp of algorithms before starting in two weeks. I think I will do this. That's 43 problems to get the fundamentals.  
+
 ## 2/18
 For the next two weeks, the best thing for me is to get a stronger grasp of JS fundamentals, working with the browser, the DOM, HTTP requests, testing framewors (Jest Enzyme, Mocha, Karma, Jasmine). Working with D3 might be something worth doing, for my own education. Another project is a really good idea, and working with D3 is a good way to get a solid take on the fundamentals again. So finish react-crypto-graph is week and then do something next week with D3. The testing frameworks, I keep wanting to do them but they're such a pain in the butt. Just comment your code well. 
 
