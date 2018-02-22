@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 2/22 
+
+Interesting problems : Parse Words (from Tony), Word Search (from April), 
+
 ## 2/19 
 Today I studied in-order traversal in constant space. It's called Morris traversal - so beautiful. I want to get a firm grasp of algorithms before starting in two weeks. I think I will do this. That's 43 problems to get the fundamentals.  
 
