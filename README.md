@@ -1,6 +1,12 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/1
+
+It's back on the job search for Adrian Jewell. My paid internship completed successfuly with lots of valuable lessons learned. There are so many things worth learning but the most important task is to get a new job, a really good one with smart teammates, organized management, challenging technical problems, and potential for growth and professional development. My interest is in software companies or working directly with scientists.  
+
+My side project during my job search will be contributing to the Onion Router. The next steps in this process are to run the client locally, make an API request, and then build the client locally from source and make a successful api request. 
+
 ## 2/22 
 
 Interesting problems : Parse Words (from Tony), Word Search (from April), 
