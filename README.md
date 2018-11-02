@@ -1,6 +1,16 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/2 
+
+Progress with TOR. I have successfuly run the Tor client from my mac, and used an industry browser to connect to an onion service. I have accomplished the same thing on my linux box, with the added bonus of having built Tor from source and run it locally. I have concluded that running a relay might be too expensive for me, but that incentivizes me to find someone who is running one successfully and learn from them. My next task is to make a sucessful API request from Postman or similar, which did not work yesterday. I was able to hit tor but it interpreted the postman request as an HTTP request, which of course it is, but someone all other traffic interfaces correctly with the TOr client. I will investigate this further. Once i do it on mac, I then need to do it on my linux box. 
+
+My goals for the contributing to Tor are threefold: 1. To learn a low level langauge (C), to learn more about web infrastructure, to build my credentials, to investigate my interest in security, and of course keep my coding skills sharp. 
+
+Additional work for me includes re-learning Ruby and algorithms so that I can pass interviews. My google interview rejected me because I couldn't consider all the test cases up front, so my goal in solving algorithms will be to do a better job of this, and of course keep learning new ways to solve them. 
+
+Lastly, I need to some metric of how I know when I'm ready to apply to Dropbox, I'm not sure. I think about 
+
 ## 11/1
 
 It's back on the job search for Adrian Jewell. My paid internship completed successfuly with lots of valuable lessons learned. There are so many things worth learning but the most important task is to get a new job, a really good one with smart teammates, organized management, challenging technical problems, and potential for growth and professional development. My interest is in software companies or working directly with scientists.  
