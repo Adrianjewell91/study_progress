@@ -9,7 +9,9 @@ My goals for the contributing to Tor are threefold: 1. To learn a low level lang
 
 Additional work for me includes re-learning Ruby and algorithms so that I can pass interviews. My google interview rejected me because I couldn't consider all the test cases up front, so my goal in solving algorithms will be to do a better job of this, and of course keep learning new ways to solve them. 
 
-Lastly, I need to some metric of how I know when I'm ready to apply to Dropbox, I'm not sure. I think about 
+I need to some metric of how I know when I'm ready to apply to Dropbox, I'm not sure. I think a good metric would be when I complete codesignal interview practice? I don't really know. I just need to do it alot. I think in one week, I will reassess my readiness. 
+
+Lastly, today is my birthday, and my resolution for this year, is to approach every action from a place of gratitude. I used to be a lot happier because I had more gratitude, and if I were to change in my life, it would simply to be happier more often, and the way I do that is by actively have gratitude for what I have, so that is my plan. 
 
 ## 11/1
 
