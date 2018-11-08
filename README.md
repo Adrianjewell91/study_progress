@@ -1,6 +1,12 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/7
+
+I did the tryplebyte interview on a whim, but I knew what was coming. It was actually a challenging, and valuable experience. Things I forgot to know: 1. Traverse a linked-list in a hashmap's bucket, and just wait until you reach the value you're looking for 2. Bloom filters tell you whether something is in a set (not really sure when do use that) 3. To find the kth largest element in a binary search tree, just do reverse order traversal.
+
+IMSLP offered to let me work on their project. That will be satisfying.
+
 ## 11//6 
 
 Two interesting algorithms crossed my path today. The first is the Bellman Ford algorithm - I understand how it works but I don't know how to conceptualize the proof that is always works. The second is the Boggle Board question, where the optimized solution is to dfs the board but using a prefix tree to narrow my traversal. Tomorrow, I will undertake my first systematic exploration of the Bellman Ford algorithm with the help of a lecture from MIT. Walking through the process will be super helpful.  At this point, my goals is to study algorithms everyday, write code, and try to get a job using codesignal and my referrals. I will also do the tryplebyte interview once's I've built a kanban and tic tac toe using web components, using the JR architectural pattern (writing all business logic with CSS), I haven't done any front end since I stopped working. I will also offer to contribute the IMSLP website, as they need some serious help with their UI. At the very least, it needs to be mobile responsive. 
