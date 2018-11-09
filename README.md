@@ -59,11 +59,11 @@ For the next two weeks, the best thing for me is to get a stronger grasp of JS f
 
 I got a job - now the real work begins. It's time to start thinking long term about this career. 
 
-## 2/15 
+## 2/15, 2018 
 
 Actively interviewing - Boston, SF, another today- no time to make git commits. Studied a lot of algorithsm. My mind is rushing. Hoping to settling things asap. 
 
-## 2/9
+## 2/9, 2017
 I'm looking for a better way to detect when linked in is on the feed. I can't detect an object, because a new instance is created when I reload the feed window, so I can't do MutationObserver. I also cannot use Proxy because I cannot set window.location to a proxy with location and a handler. So right now, I'm just listening to window.location.href and checking it's value. Browsers need an #onhashchange for window.location.href 
 
 ## 2/8
