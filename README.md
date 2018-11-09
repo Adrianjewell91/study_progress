@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/8
+
+At this point, going to pairboarding has been really helpful for me, in considering new toy problems regularly. My plan is to keep going twice a week and attend the DandI roundtable discussion until I get hired and start a new position. It's a great social atmosphere. Today's problems were tough - the first one required discovering the math trick when writing out a pattern. The second one required a lot of questioning to determine valid inputs and possible outputs. Very challenging problems. 
+
 ## 11/7
 
 I did the tryplebyte interview on a whim, but I knew what was coming. It was actually a challenging, and valuable experience. Things I forgot to know: 1. Traverse a linked-list in a hashmap's bucket, and just wait until you reach the value you're looking for 2. Bloom filters tell you whether something is in a set (not really sure when do use that) 3. To find the kth largest element in a binary search tree, just do reverse order traversal.
