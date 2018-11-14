@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/14
+
+Whoops, a number of days have slipped by, but I've done a lot of interviewing with friends at their companies, and applied to an entrepreneurship program at OBerlin. I've been quite social and kept up my pairboarding, and met new people. I've planned my trip to China and made a commitment to find work in SF. I've also been rejected from triplebyte and thoughtbot, which is fine, and I've thought a bit more about Theorizer. My next steps are to document exact what I want theorize to be able to do technically (requirements), and then write a grant for it, and continue job searching in the process. I've also started an open source contribution to IMSLP, and that will be the other thing I will do for now. 
+
 ## 11/8
 
 At this point, going to pairboarding has been really helpful for me, in considering new toy problems regularly. My plan is to keep going twice a week and attend the DandI roundtable discussion until I get hired and start a new position. It's a great social atmosphere. Today's problems were tough - the first one required discovering the math trick when writing out a pattern. The second one required a lot of questioning to determine valid inputs and possible outputs. Very challenging problems. 
