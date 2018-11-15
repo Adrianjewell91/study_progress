@@ -1,6 +1,12 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/15
+
+The technical specification for Theorizer is hashed out and printing at the theorizer Repo. My tasks now are to either find a full time job or win a grant to develop Theorizer. Additionally, I'm taking a look at IMSLP.org's open source project to create gapless playback in their media player. 
+
+This morning, I pairboarded with a few linked list-problems. Some key points to remember are: to write dry code, and to never modify the input variables.  The kth-node removal problem was a good one. 
+
 ## 11/14
 
 Whoops, a number of days have slipped by, but I've done a lot of interviewing with friends at their companies, and applied to an entrepreneurship program at OBerlin. I've been quite social and kept up my pairboarding, and met new people. I've planned my trip to China and made a commitment to find work in SF. I've also been rejected from triplebyte and thoughtbot, which is fine, and I've thought a bit more about Theorizer. My next steps are to document exact what I want theorize to be able to do technically (requirements), and then write a grant for it, and continue job searching in the process. I've also started an open source contribution to IMSLP, and that will be the other thing I will do for now. 
