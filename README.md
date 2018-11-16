@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/16
+
+Today, my plan is to do some network in the morning, and then do some coding in the afternoon. I need to find another batch of people who might want to refer me to their company, and then do a POC for gapless playback using the webaudio API - perhaps do the tutorials on the MDN docs and then see how do to the next thing. I really want a job now. It's my third week, and I'm ready to get back to work soon. It'll be the holidays, and then it'll be time to get back to work. My plan is also to do the uber coding challeng.
+
 ## 11/15
 
 The technical specification for Theorizer is hashed out and printing at the theorizer Repo. My tasks now are to either find a full time job or win a grant to develop Theorizer. Additionally, I'm taking a look at IMSLP.org's open source project to create gapless playback in their media player. 
