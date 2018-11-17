@@ -1,6 +1,14 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/17
+
+My focus will be on working for a start up. I made myself available on workatastartup. I've identified 4 obies who work in tech who might be willing to refer me. 
+
+Yesterday, I completed the intro tutorial for web audio - very interesting I must say. Onto the next one. I also learned how gapless works, which is to say simply, that there is a queuing system, which each item in the queue being a Track object, whose song is being downloaded asynchronously, when the track is up to play, the song is either played directly from webaudio if the song is completely loaded or loaded at HTML5 and then swapped into web audio. Do this because webaudio source switching is seamless, while HTML5  is not. Still, I think that the HTML5 is still good enough for most cases. 
+
+Onto the 
+
 ## 11/16
 
 Today, my plan is to do some network in the morning, and then do some coding in the afternoon. I need to find another batch of people who might want to refer me to their company, and then do a POC for gapless playback using the webaudio API - perhaps do the tutorials on the MDN docs and then see how do to the next thing. I really want a job now. It's my third week, and I'm ready to get back to work soon. It'll be the holidays, and then it'll be time to get back to work. My plan is also to do the uber coding challeng.
