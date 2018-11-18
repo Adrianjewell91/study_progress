@@ -1,6 +1,16 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/18 
+
+There are a lot of things I'd like to learn and do in the academic realm, like implement a microprocessor, a computer OS, and study other topics, but my energies should go toward important tasks. At this point, I have to implement the Bellman Ford algorithm on Codesignal, and finish the Webaudio advanced tutorial. The next thing is to do some research into what exactly Rails is. I remember learning how to use it, but now I want to do some reading more deeply into everything that is contains and why I would choose rails over another language's monolith, or over a cloud backend framework. The next questions on my mind is whether to pursue data engineering of full stack development. Honestly, I'm more interested in learning data engineering, but I will keep applying for web dev roles. I can do both. I can do a data engineering project for Theorizer I think, and I can apply to both kinds of roles, 5 each a week (frontend, full stack, and data engineering), and I can make myself available for freelance to keep up my resume. 
+
+The plan moving forward is to continue applying: 1. Reach out to the four obies I identified. 2. Start cold applying to 25 a week. 3. Do a DE project related to Theorizer. 4. Keep reading and research new things, the first of which should be a deep read into how Rails is built, and all of the problems it solves, the second of which will a attempt to understand the current status of cryptocurrencies in the economy (who actually uses it, how much money is in it, and why is there a scaling problem?) . 5. I also want to make some kind of a comprehensive list that a full stack developer should know how to do and all of the security and aesthetic problems that need to be solved in a web app. 
+
+The other thing to do is find a new place to live in SF. Cohort X is amazing, but I want some more privacy and at the very least, space for guests, that's the main thing. Options are the Negev or my own place. 
+
+I also had a realization that the crux of my social experience cannot be the symphony, because the symphon is not a comfortable place to enjoy music, the home is the place, so I will start taking lessons in 2019 and make my home the social crux, along with music being the crux of my social life here. Working out is going well too, my goal is to do 100 pushups easy, hold the Horse stance for 10 minutes easy, and get a six pack of abs. 
+
 ## 11/17
 
 My focus will be on working for a start up. I made myself available on workatastartup. I've identified 4 obies who work in tech who might be willing to refer me. 
