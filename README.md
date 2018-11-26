@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 11/27
+
+It has been a week since really doing anything, and it is time for me to begin the next phase, which is to begin more systematic work on Theorizer. The next step will be be to build a more user friendly UI for the neural network, and build a more flexible neural network for chord classification. This the neural network will be more like a markov chain, where each note will go in individually, with possible Chord classifications being churned out at each step. The UI will need to be build with something more lightweight, and I'm basically going to rebuild it from scratch. Remember, the goal here is to basically preserve my entire knowledge of classical music in an AI, and make an academic contribution to AI and musicology through this project. 
+
 ## 11/18 
 
 There are a lot of things I'd like to learn and do in the academic realm, like implement a microprocessor, a computer OS, and study other topics, but my energies should go toward important tasks. At this point, I have to implement the Bellman Ford algorithm on Codesignal, and finish the Webaudio advanced tutorial. The next thing is to do some research into what exactly Rails is. I remember learning how to use it, but now I want to do some reading more deeply into everything that is contains and why I would choose rails over another language's monolith, or over a cloud backend framework. The next questions on my mind is whether to pursue data engineering of full stack development. Honestly, I'm more interested in learning data engineering, but I will keep applying for web dev roles. I can do both. I can do a data engineering project for Theorizer I think, and I can apply to both kinds of roles, 5 each a week (frontend, full stack, and data engineering), and I can make myself available for freelance to keep up my resume. 
