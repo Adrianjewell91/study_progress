@@ -3,6 +3,10 @@ What I have studied since Oct 18th, 2017. Most recent additions are first.
 
 ## 11/27
 
+Updated the Theorizer Readme, and make a commitment to rigorous job applications. Also was accepted into a start up accelerator at Oberlin called LaunchU, don't know if I'll do it though.
+
+## 11/26
+
 It has been a week since really doing anything, and it is time for me to begin the next phase, which is to begin more systematic work on Theorizer. The next step will be be to build a more user friendly UI for the neural network, and build a more flexible neural network for chord classification. This the neural network will be more like a markov chain, where each note will go in individually, with possible Chord classifications being churned out at each step. The UI will need to be build with something more lightweight, and I'm basically going to rebuild it from scratch. Remember, the goal here is to basically preserve my entire knowledge of classical music in an AI, and make an academic contribution to AI and musicology through this project. 
 
 ## 11/18 
