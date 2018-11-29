@@ -3,7 +3,7 @@ What I have studied since Oct 18th, 2017. Most recent additions are first.
 
 ## 11/29 
 
-I've begun the Linear Algebra course, and I've taken the Springboard AI machine learning course challenge, and now it's time to decide what's going to happen next. This morning, I tackled MakeChange - what's the minimum number of coins required to make a sum given a list of coins. I don't really understand how I could ahve gotten to the answer, it's a dynamic programming problem, the code is dead simple, but the solution would have taken me a few bouts of just letting it sink in and brainstorming all different ways to create a sequence of numbers. My goal for the job search is to find a good job in SF after China and then become an AI expert. That is the plan for the rest of my life. 
+I've begun the Linear Algebra course on Khan Academy, and I've taken the Springboard AI machine learning course challenge, and now it's time to decide what's going to happen next. This morning, I tackled MakeChange - what's the minimum number of coins required to make a sum given a list of coins. I don't really understand how I could ahve gotten to the answer, it's a dynamic programming problem, the code is dead simple, but the solution would have taken me a few bouts of just letting it sink in and brainstorming all different ways to create a sequence of numbers. My goal for the job search is to find a good job in SF after China and then become an AI expert. That is the plan for the rest of my life. 
 
 ## 11/27
 
