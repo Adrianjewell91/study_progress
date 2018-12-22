@@ -1,6 +1,14 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 12/22
+
+So it has been some time since I last really did anything with coding. I took a vacation to central China investigate my relationship with the country and evaluate my level of Chinese. As it turns out, my chinese has improved and it would be worth certifying at HSK level 4 or 5. I also had some time to reflect on my life choices since deciding to return to America 3 years ago.  
+
+This morning I completed the graph portion of the codesignal interview guide. It is still my goal to complete this track. IN the graph section, the topics includes finding cycles, finding bridges, coloring a graph, using djikstra's path finding algorithm, and finally using the Bellman Ford to detect negative cycles. All very interesting, and still requiring a lot of time and energy on my part. 
+
+There are many things I'd like to study, and my conclusion is that there are two motivating factors: either the promise of making money on my investment, and the the social element. 
+
 ## 11/29 
 
 I've begun the Linear Algebra course on Khan Academy, and I've taken the Springboard AI machine learning course challenge, and now it's time to decide what's going to happen next. This morning, I tackled MakeChange - what's the minimum number of coins required to make a sum given a list of coins. I don't really understand how I could ahve gotten to the answer, it's a dynamic programming problem, the code is dead simple, but the solution would have taken me a few bouts of just letting it sink in and brainstorming all different ways to create a sequence of numbers. My goal for the job search is to find a good job in SF after China and then become an AI expert. That is the plan for the rest of my life. 
