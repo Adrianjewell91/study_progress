@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 12/24
+
+Now begins my transition into the springboard AI course. Probably, I will keep a reflection of my experiences here on github for others to read. At this point, there are some interesting things to consider. The first is: what exactly has been my direct experience with AI? The answer is: voice recognition, search query prediction, translation, but that's about it regarding my direct experience. In truth, there are loads of more applications currently in use, of which the main domains are speech, vision, and planning. I would additionally, break these down into many subtopics, and collectively group them into the field of developing robots, which will use all of them. For me, I suppose my direct interest in AI is to work on my music-related interests, but also to learn something that is intrinsically interesting to me and will be lucrative in my next job, and to join the discussion now.   
+
 ## 12/22
 
 So it has been some time since I last really did anything with coding. I took a vacation to central China investigate my relationship with the country and evaluate my level of Chinese. As it turns out, my chinese has improved and it would be worth certifying at HSK level 4 or 5. I also had some time to reflect on my life choices since deciding to return to America 3 years ago.  
