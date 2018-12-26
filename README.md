@@ -1,6 +1,25 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 12/26
+
+It's back to job search, and I turned down the course from Springboard. Today, I watched a video from RT.com entitled, Silicon Valley and the New Capitalism, which actually argued that Silicon Valley is more like the "old" capitalism, from the industrial age of the 19th century. But in the any case, the point is that it makes an argument for the dark side of San Francisco. I completely agree that this side exists, and here are some of my other thoughts too: 
+
+RT Lecture on Silicon Valley:
+
+1. Yes, I am one of the headstrong young men who things they can change the world. Yes, I agree there is a bro culture here.
+2. Yes, it’s expensive and the wealth concentration is huge.
+3. Yes, my Lyft drivers are largely poor.
+4. Yes, there are homeless people, but only in specific places.
+5. Yes, I think that they inequality isn’t necessarily a bad thing. I do not beleive that all people are created equal and or all deserve a basic standard of living. That is not to say people shouldn't help each other. I have donated thousands of dollars worth of material possessions to others since moving here.
+6. Yes, there are organizations to help homeless people if you can find them.
+7. Yes, there is a housing crisis and I think people should build some houses.
+9. Yes, San Francisco is a good place, if you know the right things to do and to the things to avoid, like expensive restaurants.
+10. Yes, there is also the social welfare component, and people can get help here. Healthcare, unemployment, free food.
+11. Yes, some people commute a very long way, and the contracting was huge at WSI. 
+
+My question is how could I capitalize on these problems? They're largely infrastrutural problems.
+
 ## 12/24
 
 Now begins my transition into the springboard AI course. Probably, I will keep a reflection of my experiences here on github for others to read. At this point, there are some interesting things to consider. The first is: what exactly has been my direct experience with AI? The answer is: voice recognition, search query prediction, translation, but that's about it regarding my direct experience. In truth, there are loads of more applications currently in use, of which the main domains are speech, vision, and planning. I would additionally, break these down into many subtopics, and collectively group them into the field of developing robots, which will use all of them. For me, I suppose my direct interest in AI is to work on my music-related interests, but also to learn something that is intrinsically interesting to me and will be lucrative in my next job, and to join the discussion now.   
