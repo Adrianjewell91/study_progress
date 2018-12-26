@@ -7,11 +7,11 @@ It's back to job search, and I turned down the course from Springboard. Today, I
 
 RT Lecture on Silicon Valley:
 
-1. Yes, I am one of the headstrong young men who things they can change the world. Yes, I agree there is a bro culture here.
-2. Yes, it’s expensive and the wealth concentration is huge.
-3. Yes, my Lyft drivers are largely poor, but I don't know this for sure.
+1. Yes, I am one of the headstrong young men who thinks they can change the world. 
+1.5. Yes, I agree there is a bro culture here.
+2. Yes, SF is expensive and the wealth concentration is huge.
 4. Yes, there are homeless people, but only in specific places.
-5. Yes, I think that they inequality isn’t necessarily a bad thing. I do not believe that all people are created equal and/or all deserve a basic standard of living. That is not to say people shouldn't help each other. I have donated thousands of dollars worth of material possessions to others since moving here.
+5. Yes, I think that inequality isn’t necessarily a bad thing. I do not believe that all people are created equal and/or all deserve a basic standard of living. That is not to say people shouldn't help each other. I have donated thousands of dollars worth of material possessions to others since moving here.
 6. Yes, there are organizations to help homeless people if you can find them.
 7. Yes, there is a housing crisis and I think people should build some houses.
 9. Yes, San Francisco is a good place, if you know the right things to do and to the things to avoid, like expensive restaurants.
