@@ -1,6 +1,19 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 1/1/2019 
+
+Happy New Year. Today, I read about how to implement an HTTP server from scratch. I learned at the HTTP specifications include some reading on the RFC, and implementing the actual HTTP rules would take a very long time. The TCP implementation API in C, however, is relatively straight forward once you get the syntax. Still, I would like to know more about how the std libraries are implemented in C. And there are many other questions for me have answered about HTTP, so I should probably read all of the RFC specs.  https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa
+
+I have also been working through the problem of finding the longest chain in a binary tree, which comes down to a very simple pattern that discovered by working several other aspects of the problem, namely: what is the minimum longest chain that one can construct given n number of nodes from a binary tree format? The relationship is quite interesting, such that as n increases incrementally, the minimum longest chain increases like so 1 2 3 3 4 4 5 5 5 5 6 6 6 6, for each n. As n increases, the minimum longest chain is related to a pattern that prints out integers sequentially, such that at each even number the next two numbers to be printed are doubled in their repetition compared against the previously two printed numbers. Like so: 
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+
+0 1 2 3 3 4 4 5 5 5 5  6  6  6  6  7.
+
+Then I did some examples and concluded that the longest chain the binary tree would be related to the maximum length (which would be the number of node, connected in a straight) - the number of node with three edges (one parent and two children). 
+At this point, I was slightly unsure of whether I had sufficiently established a pattern, and this is coming to a question that I have about math, namely, how exactly do I prove an algorithm or a pattern using math language or something akin to it? In other words, I know that I've found a pattern, but I still am not 100% sure that it is true for some reason. I think I am just doubting myself. 
+
 ## 12/26
 
 It's back to job search, and I turned down the course from Springboard. Today, I watched a video from RT.com entitled, Silicon Valley and the New Capitalism, which actually argued that Silicon Valley is more like the "old" capitalism, from the industrial age of the 19th century. But in the any case, the point is that it makes an argument for the dark side of San Francisco. I completely agree that this side exists, and here are some of my other thoughts too: 
