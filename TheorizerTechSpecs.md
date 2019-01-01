@@ -1,11 +1,10 @@
 Technical Specifications for Theorizer MVP:
 
 1. A ruby on rails backend with authentication for users using the A/a authentication paradigm, built in the style of A/a.
-    1. An auth endpoint for authenticating a user.
-    2. A special auth endpoint for the ML api endpoint.
-    3. A endpoint for serving the static files.
-    4. An endpoint for saving the number of queries used. (Two schema options, a separate table for queries, and a foreign key for the user, probably better so we can store dates). 
-2. A ML - API hosted separately that is properly authenticated - how do I do this? 
+    1. An auth endpoint for authenticating a user. /session and /users
+    3. An endpoint for serving the static files. /home
+    4. An CRUD endpoint for logging queries. (Two schema options, a separate table for queries, and a foreign key for the user, probably better so we can store dates).  /query
+2. A ML service - API hosted separately /analysis - This can also his the auth endpoint to authenticate a request, and pass it as an orchestrator. But I feel like there's a better way to do it. 
     1. Build the ML Model and run it locally, probably in python with flask. 
         1. Run a small server with one endpoint, and then when the endpoint is hit, authenticate the request and then make the analysis.
         2. Cache the analysis and also cache the session tokens last used - Could I do a performance test with this and measure the results, using a cache and not using a cache for this section?
@@ -68,4 +67,3 @@ Tests for the frontend functions:
 	- Refresh the page and whatever was selected should load back up (store configuration in local storage or similar). 
 	- Clicking on the analyze button should initialize an API request. 
 
-An unsolved question: how exactly to authenticate the ML service. Having two authentication services is not DRY. The problem is that I want to expose to the ML api to the public but I want to authenticate it. How does Twitter or other major API services authenticate? The way I think it's done is tha the service does a user name and password lookup, passes it's own session token to the client (browser or other), and then does it that way. 
