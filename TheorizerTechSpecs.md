@@ -67,3 +67,38 @@ Tests for the frontend functions:
 	- Refresh the page and whatever was selected should load back up (store configuration in local storage or similar). 
 	- Clicking on the analyze button should initialize an API request. 
 
+
+Technical considerations for Theorizer Security and Monetization.
+
+How to secure the ML Framework - if it’s authenticated, then the API can be UI agnostic, which would be great.
+	One way - check the database for valid auth token, then perform analysis if valid, charge user when analysis confirmed (will require API calls.)
+				- Why distinguish between an auth token and a session token? Read the twitter or some other authenticated API.
+		- Hackable - someone gets your session token, then other users could use your session token (set expiry and encrypt it).
+		- ML framework needs to make request (one for validity, another for charging account after successful request).
+	Another way - enforce IP address, but still need to send user information.
+
+Backend - can scale as a series of micro-services or monolith? Options (Django, rails node, spring, rack, other?, probably tons), and guard against all of the major security vulnerabilities.
+	Auth - Verifies users, creates a new users, issues valid session tokens for logged in users.
+	Financial Information - Charges a user account when an analysis made.
+	Get songs - CRUD for songs - stores song name, pdf or other image file, and other categorical information.
+	Database - probably relational - secure the database too, only the server can access the database. - how to secure financial information.
+	Additional SQL and software for handling charges.
+
+Frontend - Implements UI,
+		- Need an keyboard, a musical score annotation mechanism, and a way to receive midi input.
+		- Needs to authenticate users.
+Backend - store user, financial information and records, and song list, potentially a history of analyses or state of annotation, implements the middleware and API.
+ML Framework - needs to be easily interchangeable, updatable, perhaps learning from analyses made., needs to be secure, potentially scalable. 
+			- security strategies: authenticate with a session token (how will the ML know which tokens are valid - a database call?) 
+			- not authenticate but allows hits only from an IP (IP spoofing is possible).
+
+MVP Technical Considerations:
+
+	0.	Build a better AI - do chord classification, but use a TRIE instead. Three notes makes a chord, all chords, and all inversions, but how to handle all chord cases, and slightly atypical (like C1,  and three E’s and a G), a trie is too smaller, especially when considering repeated notes. This is the justification for a neural network.
+	0.	How many major chords are there if we count repeated notes as possible and at least three notes, just one chord A minor, in the root possible with at least three notes played, can be played in 2^20 different configurations, multiply that roughly times twelve and then times two * three to get all possible configurations for major and minor chords in all inversions approx. 50 million different configurations - a trei is perhaps not useful here, or maybe it is. I could generate the dataset and see what happens, a dataset of 50 millions chord configurations and see what the neural network comes up with.
+	0.	Build a better backend - decouple the AI from backend, create a service. Implement session authentication, store user information, use something besides Django.
+	0.	Build a simpler frontend - use vanilla JS, keep the iframe for now - polypill and test all the major browsers (Chrome, Firefox, Safari, EI, EDGE).
+
+Market Research Considerations: 
+
+Google and Youtube Searches - How many piano performance videos show people readying sheet music, and how many don’t. What is the demand for piano lessons, and then simply personal experience and others.
