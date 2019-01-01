@@ -94,10 +94,10 @@ ML Framework - needs to be easily interchangeable, updatable, perhaps learning f
 
 MVP Technical Considerations:
 
-	0.	Build a better AI - do chord classification, but use a TRIE instead. Three notes makes a chord, all chords, and all inversions, but how to handle all chord cases, and slightly atypical (like C1,  and three E’s and a G), a trie is too smaller, especially when considering repeated notes. This is the justification for a neural network.
-	0.	How many major chords are there if we count repeated notes as possible and at least three notes, just one chord A minor, in the root possible with at least three notes played, can be played in 2^20 different configurations, multiply that roughly times twelve and then times two * three to get all possible configurations for major and minor chords in all inversions approx. 50 million different configurations - a trei is perhaps not useful here, or maybe it is. I could generate the dataset and see what happens, a dataset of 50 millions chord configurations and see what the neural network comes up with.
-	0.	Build a better backend - decouple the AI from backend, create a service. Implement session authentication, store user information, use something besides Django.
-	0.	Build a simpler frontend - use vanilla JS, keep the iframe for now - polypill and test all the major browsers (Chrome, Firefox, Safari, EI, EDGE).
+	Build a better AI - do chord classification, but use a TRIE instead. Three notes makes a chord, all chords, and all inversions, but how to handle all chord cases, and slightly atypical (like C1,  and three E’s and a G), a trie is too smaller, especially when considering repeated notes. This is the justification for a neural network.
+	How many major chords are there if we count repeated notes as possible and at least three notes, just one chord A minor, in the root possible with at least three notes played, can be played in 2^20 different configurations, multiply that roughly times twelve and then times two * three to get all possible configurations for major and minor chords in all inversions approx. 50 million different configurations - a trei is perhaps not useful here, or maybe it is. I could generate the dataset and see what happens, a dataset of 50 millions chord configurations and see what the neural network comes up with.
+	Build a better backend - decouple the AI from backend, create a service. Implement session authentication, store user information, use something besides Django.
+	Build a simpler frontend - use vanilla JS, keep the iframe for now - polypill and test all the major browsers (Chrome, Firefox, Safari, EI, EDGE).
 
 Market Research Considerations: 
 
