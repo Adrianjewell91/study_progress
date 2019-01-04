@@ -1,6 +1,12 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 1/4/2019
+
+Certain lessons in math are taking up my time instead of job searching and coding. I'm interested in a understanding how to prove that algorithms are correct or incorrect. So far, I'm aware of Proofs by Contradiction, by Induction, by Contrapositive, with the proof by contradiction being the useful for concluding that only two DFS's are necessary to find the longest path in a tree. I have to say it's a fascinating proof and I'm still not convinced I understand how I would have arrived at this property of graphs in my explorations.  I will just have to keep exploring and asking myself how we can know something for sure, and maybe at some point I'll get around to coding a feature for Theorizer. 
+
+I have also the primer on quantum computing from D-Wave systems, and I think I understand it only haphazardly.  Quite an interesting concept. At this point, I'm aware of how the build the equations but I'm still confused on a few key aspects of embedding logic qubits into the physica qubits, but I understand the basics: namely, that a graph must be organized and connected correctly and the weights must be conceived in such a way that the minimum "objective value" of the special equation that the machine computes produces the answer you're seeking. But I will not get to this until I settle my understanding of the algorithm of longest chain. 
+
 ## 1/1/2019 
 
 Happy New Year. Today, I read about how to implement an HTTP server from scratch. I learned at the HTTP specifications include some reading on the RFC, and implementing the actual HTTP rules would take a very long time. The TCP implementation API in C, however, is relatively straight forward once you get the syntax. Still, I would like to know more about how the std libraries are implemented in C. And there are many other questions for me have answered about HTTP, so I should probably read all of the RFC specs.  https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa
