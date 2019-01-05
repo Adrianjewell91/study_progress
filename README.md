@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 1/5/2019
+
+My final verdict on the meaning of computer programming is this: an expert at implementing an idea into reality.  For example, for write this function for Tree Diameter (codesignal), the real programming expert would be person who can mostly efficiently (time and space-wise) implement the BFS search algorithm in code, while the mathematician would be the one who came up with the solution and proved it with whatever method was required to prove it. I still did not find a way to implement the algorithm without creating a new data structure (an adjacency list), and I guess it'll just have to be left at that. Give it to my students and see what they think. 
+
 ## 1/4/2019
 
 Certain lessons in math are taking up my time instead of job searching and coding. I'm interested in a understanding how to prove that algorithms are correct or incorrect. So far, I'm aware of Proofs by Contradiction, by Induction, by Contrapositive, with the proof by contradiction being the useful for concluding that only two DFS's are necessary to find the longest path in a tree. I have to say it's a fascinating proof and I'm still not convinced I understand how I would have arrived at this property of graphs in my explorations.  I will just have to keep exploring and asking myself how we can know something for sure, and maybe at some point I'll get around to coding a feature for Theorizer. 
