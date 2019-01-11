@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 1/11/2019
+
+I've considered a new problem called the Minimum Spanning Tree problem, the key insight to which is yet another subtle point of mathematics that I haven't considered nor would have figured out. In fact, I ended up thinking that I could solve a MST problem by simply DFSing and removing cycles, and I can't believe that I thought this is a suitable solution because it won't work for even a densely connected graph with four nodes. I want to think more clearly when it comes to arguments like this.
+
 ## 1/5/2019
 
 My final verdict on the meaning of computer programming is this: an expert at implementing an idea into reality.  For example, for write this function for Tree Diameter (codesignal), the real programming expert would be person who can mostly efficiently (time and space-wise) implement the BFS search algorithm in code, given the potentially convoluted input data, while the mathematician would be the one who came up with the solution and proved it with whatever method was required to prove it. I still did not find a way to implement the algorithm without creating a new data structure (an adjacency list), and I guess it'll just have to be left at that. Give it to my students and see what they think. 
