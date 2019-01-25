@@ -1,6 +1,10 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 1/25/2019
+
+I have successfully relocated back to SF and started a full-time position as a Technical Career Coach at A/a. The next step is to leave my mark on A/a and continue to pursue what is next in my adventure as a software engineer. I'm not sure if this means finishing the algorithm curriculum or starting an open source project, but I want to stick with one thing and go from there, moving forward into the next stages software engineering. 
+
 ## 1/11/2019
 
 I've considered a new problem called the Minimum Spanning Tree problem, the key insight to which is yet another subtle point of mathematics that I haven't considered nor would have figured out. In fact, I ended up thinking that I could solve a MST problem by simply DFSing and removing cycles, and I can't believe that I thought this is a suitable solution because it won't work for even a densely connected graph with four nodes. I want to think more clearly when it comes to arguments like this.
