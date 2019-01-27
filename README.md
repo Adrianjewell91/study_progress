@@ -1,6 +1,14 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 1/27/2019
+
+My studies into linear algebgra have taken me to a threshold beyond which I do not know if I can cross at this junction. It is the field of minimum spanning trees and the optimizations on the algorithsm required to find them in a time-efficient way. I'm referring to the problem on CodeSignal called HierarchiesCount, which is fundamentally a Spanning Tree counting problem, with the goal being to count them in the most optimal way possible. I found a suboptimal but correct implementation, but the optimization appears to require a certain amount of linear algebra, so the best I can do is walk myself step-by-step through the optimal solution of someone else's, understand how the code works, and try to understand the details of the linear algebra being implemented. This was quite a project even to arrive the knowledge of what was required to solve the problem, but now I am relieved. 
+
+At this point, I am satisfied with the work laid out before me to complete at A/a: students need jobs, and they need people to help them get the jobs, correct their projects, etc. At the same time, it's time for me to set a new goal for my life in software engineering. The task should be coding-based, I'm not trying to become a mathematician, and I'm not trying to become a piano virtuoso, I'm not trying to become a neuroscientist, and I'm not trying to quit life and run off to another country or something crazy like that. At the very least, I want to bring my skills to the next level, on the level of elegance and cleanliness as the super mario game I saw recently, or the gravity simulator, or the clone of robinhood that I saw. These projects are stellar, and I should be there at that level with a new portfolio project. 
+
+Certain things make me think more deeply about my real interests. Take for example, web flow. I have to try out webflow, because this tool could automate front end development, at least to a certain point. I wouldn't be surprised to hear about it, and Joe R.'s plans to automate web development too. There's a lot happening, and more will keep happening. What will be my role in it? What would be left are engineers who know how to handle the data, to get it organized and get the answers from it.
+
 ## 1/25/2019
 
 I have successfully relocated back to SF and started a full-time position as a Technical Career Coach at A/a. The next step is to leave my mark on A/a and continue to pursue what is next in my adventure as a software engineer. I'm not sure if this means finishing the algorithm curriculum or starting an open source project, but I want to stick with one thing and go from there, moving forward into the next stages software engineering. 
