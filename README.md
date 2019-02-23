@@ -7,6 +7,11 @@ My goal is to commmit regularly again, and in this case, it will either be about
 
 Another thought on my mind recently was just how backward we are, technologically speaking. When I think about the imaginings of science fiction, and then have a look at the technology we have today, I wonder why we haven't developed new tech fast, specifically hardware. This is a question, I'd like to explore more. 
 
+Additional Studies:
+    Cap Theorem: How does it apply to understanding distributed systems. It helps us know their limitations.
+    What 'this' inside of a promise? It depends on the kind of function you write.
+    What is a time series database: A databse optimized for high writes.
+    
 
 ## 2/22/2019
 
@@ -38,6 +43,8 @@ I've been hard at work helping the students, and here is a list of all the codin
     3. Script for inputting into salesforce.
 10. Complete Codesignal Interviews curriculum.
 11. An exercise that acquaints me with all four types of databases.
+12. Implement a b-tree
+
 
 Technical Books I want to read:
 1. Head first design patterns - don’t have to do the code examples
