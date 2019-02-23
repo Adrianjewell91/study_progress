@@ -7,6 +7,7 @@ My goal is to commmit regularly again, and in this case, it will either be about
 
 Another thought on my mind recently was just how backward we are, technologically speaking. When I think about the imaginings of science fiction, and then have a look at the technology we have today, I wonder why we haven't developed new tech fast, specifically hardware. This is a question, I'd like to explore more. 
 
+
 ## 2/22/2019
 
 I've been hard at work helping the students, and here is a list of all the coding I would like do be doing
