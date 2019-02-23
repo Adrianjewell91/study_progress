@@ -1,6 +1,41 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 1/22/2019
+
+I've been hard at work helping the students, and here is a list of all the coding I would like do be doing
+
+1. MERN Stack tutorial for work:
+2. Build MVP for Theorizer with all of the new technology tool and get up to speed.
+    1. Use GraphQL (for the right reasons)
+    2. Host on AWS cloud architecture. 
+    3. Make it scalable on the cloud. 
+    4. CI/CD w Jenkins
+    5. Full Test Coverage for all functions
+    6. Good coding design: all business logic abstracted out of the functions. 
+3. Research the Theorizer AI. 
+    1. Learn Linear Algebra. 
+    2. Learn ML.
+    3. Program the next round of ML network
+4. Program a quantum computer. 
+    1. QiSkit - use and contribute.
+    2. IBM Intro to quantum computing, QCL
+    3. Intro to quantum computing terminology. (Downloaded pdf) and Ruggeri’s stuff.
+5. Contribute to Tor or Anonymity Browsing methods. 
+6. Write some program for neuroscientists to do their work better. 
+7. Go to graduate school, get paid to do it, and research AI methods. 
+8. Try out Webflow.
+9. Tools for A/a:
+    1. Webscraper for portfolio completion
+    2. Resume evaluator.
+    3. Script for inputting into salesforce.
+10. Complete Codesignal Interviews curriculum.
+11. An exercise that acquaints me with all four types of databases.
+
+Technical Books I want to read:
+1. Head first design patterns - don’t have to do the code examples
+2. Introduction to Algorithms. 
+
 ## 1/27/2019
 
 My studies into linear algebgra have taken me to a threshold beyond which I do not know if I can cross at this junction. It is the question of spanning trees and the optimizations on the algorithsm required to find them in a time-efficient way. I'm referring to the problem on CodeSignal called HierarchiesCount, which is fundamentally a Spanning Tree counting problem, with the goal being to count them in the most optimal way possible. I found a suboptimal but correct implementation, but the optimization appears to require a certain amount of linear algebra, so the best I can do is walk myself step-by-step through the optimal solution of someone else's, understand how the code works, and try to understand the details of the linear algebra being implemented. This was quite a project even to arrive the knowledge of what was required to solve the problem, but now I am relieved. 
