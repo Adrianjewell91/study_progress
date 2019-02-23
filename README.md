@@ -1,6 +1,12 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 2/23/2019
+
+My goal is to commmit regularly again, and in this case, it will either be about things relating to coding or actual coding. Recently, my additional studies have lead me into the neuroscience literature, looking into what research has been done in that field. So far, I've read a few abstracts from the studies of the neuron, and of several biological models of neuron behavior. I've also perused the original HTM White paper from numenta.  My conclusions from this initial survey, which is far from complete, is that there is some interesting work happening, but I don't know what if I'm interested in exactly that line of work.  I don't know enough math to really think about HTM yet, but I could dive into it by implementing the model and then applying it to a problem of my interest, probably in music cognition. I'm also peripherally interested in neuro regeneration, and the algorithms that are run in the neuron to regenerate, or even develop in the first place. Really, I'm interested in the development of neuronal populations, but I have a feeling that the line of work requires ethical considerations, given that studying develope probably requires the study of generating organisms.  My idea is that neurons have programs in them that run, take an input, and then generate into the complex system that exists. What is that program? I'd like to know the answer to that. 
+
+Another thought on my mind recently was just how backward we are, technologically speaking. When I think about the imaginings of science fiction, and then have a look at the technology we have today, I wonder why we haven't developed new tech fast, specifically hardware. This is a question, I'd like to explore more. 
+
 ## 2/22/2019
 
 I've been hard at work helping the students, and here is a list of all the coding I would like do be doing
