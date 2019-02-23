@@ -1,7 +1,7 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
-## 1/22/2019
+## 2/22/2019
 
 I've been hard at work helping the students, and here is a list of all the coding I would like do be doing
 
