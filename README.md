@@ -1,6 +1,44 @@
 # study_progress
 What I have studied since Oct 18th, 2017. Most recent additions are first.
 
+## 5/5/2019
+
+After completing a two hour cloud architecture tutorial on AWS, I'm quite impressed with the degree to which AWS has made really impressive names and management consoles for such fundamentally simple concepts, or maybe, I should be impressed with the degree to which fundamentally simple concepts can be made available and scaled to such massive proportions. In fact, I think building a few cloud services that scale automatically myself would be a super cool project. Just a lambda function, to start, would have several parts: the boiler plate for exposing an API, and the traffic monitor that decides how to allocate 
+resources for more of them to be run in tandem. 
+
+But really, all of the things are so basic. I ran a function that emits an object every second and sends it another object that emits the data again. Then I built a listener to that data. Then I build two services that respond to the data. One of this literally just puts it into a bucket, and the other runs a data transformation on it and outputs the transformation into another stream, which is then monitoring and stored into a database. Then were was a UI that listens for the stream and puts the data on a map. It sounds object oriented programming.
+
+```
+production = function f { ... }
+
+k = Kinesis.new()
+k.subcribe(input: producer())
+
+f = Firehose.new
+bucket = S3.new
+
+f.subscribe(k)
+f.setOutput(bucket)
+
+k_summary_analytics = KinesisAnalytics.new
+k_summary = Kinesis.new
+
+k_summary_analytics.configure(input: k, function: transformFunction, output: k_summary)
+
+d = DynamoDB.new
+d.setScheme(k_summary.getSampleResult)
+
+l = Lambda.new
+l.setCode(code = f(data) { d.insert(data) ... }) #listen for output from k_summary, and store in dynamo.
+l.getTrigger(k_summary)
+
+a = Athena.new
+
+a.query(bucket) #This is a whole service called athena that queries data in a bucket.
+```
+
+That's all of it. I guess the real magic is the actual data being moved, and the magic in the programming is that fact that all the server management (spinning up of servers and linking them) is done under the hood. God, it was such a boring task to do this tutorial.
+
 ## 2/23/2019
 
 My goal is to commmit regularly again, and in this case, it will either be about things relating to coding or actual coding. Recently, my additional studies have lead me into the neuroscience literature, looking into what research has been done in that field. So far, I've read a few abstracts from the studies of the neuron, and of several biological models of neuron behavior. I've also perused the original HTM White paper from numenta.  My conclusions from this initial survey, which is far from complete, is that there is some interesting work happening, but I don't know what if I'm interested in exactly that line of work.  I don't know enough math to really think about HTM yet, but I could dive into it by implementing the model and then applying it to a problem of my interest, probably in music cognition. I'm also peripherally interested in neuro regeneration, and the algorithms that are run in the neuron to regenerate, or even develop in the first place. Really, I'm interested in the development of neuronal populations, but I have a feeling that the line of work requires ethical considerations, given that studying develope probably requires the study of generating organisms.  My idea is that neurons have programs in them that run, take an input, and then generate into the complex system that exists. What is that program? I'd like to know the answer to that. 
